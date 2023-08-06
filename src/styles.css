@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#wapperCounter {
+  background-color: beige;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  max-width: 600px;
+  margin: auto;
+}
+p {
+  font-size: 10px;
+}
